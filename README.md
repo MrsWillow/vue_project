@@ -1,6 +1,6 @@
 # git_project
 
-> A Vue.js project
+> vuex随笔
 
 ## Build Setup
 
