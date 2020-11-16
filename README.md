@@ -1,4 +1,4 @@
-# git_project
+# vue_project
 
 > vuex随笔
 
